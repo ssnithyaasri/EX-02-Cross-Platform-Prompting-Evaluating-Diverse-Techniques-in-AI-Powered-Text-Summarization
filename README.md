@@ -86,10 +86,11 @@ Conclusion: Both were strong, but ChatGPT was better at painting a mood, Gemini 
 # Final Summary Table:
 
 
-Prompt Type	ChatGPT Style	Gemini Style	Best Use Case
-Creative Writing	Emotional, character-driven	Philosophical, abstract	ChatGPT: Storytelling
-Technical Explanation	Simple metaphors, beginner-friendly	Real-world examples, slightly advanced	ChatGPT: Education
-Image Interpretation	Mood-focused, descriptive	Symbolic, introspective	Tie: Depends on purpose
+| Prompt Type            | ChatGPT Style                            | Gemini Style                           | Best Use Case             |
+|------------------------|------------------------------------------|----------------------------------------|----------------------------|
+| Creative Writing       | Emotional, character-driven              | Philosophical, abstract                | ChatGPT: Storytelling      |
+| Technical Explanation  | Simple metaphors, beginner-friendly      | Real-world examples, slightly advanced | ChatGPT: Education         |
+| Image Interpretation   | Mood-focused, descriptive                | Symbolic, introspective                | Tie: Depends on purpose    |
 
 
 
@@ -100,5 +101,6 @@ Image Interpretation	Mood-focused, descriptive	Symbolic, introspective	Tie: Depe
 
 
 ## Result
+Thus,Three types of prompts—creative writing, technical explanation, and image interpretation—were submitted to ChatGPT and Gemini to compare their outputs and successfully analyze differences in style, clarity, and depth.
 
 
